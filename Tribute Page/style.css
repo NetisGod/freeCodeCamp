@@ -1,0 +1,55 @@
+body .container{
+    margin: auto !important;
+
+}
+.jumbotron{
+    margin-top: 50px;
+    font-weight: normal;
+    font-family: Arial;
+}
+
+head{
+    font-size: 63px;
+}
+header {
+    font-style: italic;
+    font-size: 30px;
+    font-weight: normal;
+}
+.jumbotron .main-picture{
+    padding: 3px;
+}
+.jumbotron .main-picture span{
+    font-size: 12px;
+    font-weight: normal;
+    color: black;
+}
+
+.content{
+    /*padding: 0px 80px !important;*/
+    margin-top: 10px;
+    width: 550px;
+    font-size: 12px;
+    position: relative;
+    margin: 30px auto;
+
+}
+ul .date{
+    font-weight: bold;
+}
+blockquote{
+    padding: 10px 20px;
+}
+blockquote p{
+    font-weight: 200;
+    font-size: 21px;
+}
+
+blockquote footer cite {
+    font-size: 12px;
+}
+.main-text h3{
+    padding: 10px;
+    font-size: 25px;
+}
+
